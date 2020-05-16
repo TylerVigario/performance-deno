@@ -1,0 +1,7 @@
+{
+    "editor.detectIndentation": false,
+    "javascript.validate.enable": false,
+    "javascript.format.enable": false,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true
+}
